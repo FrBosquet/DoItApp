@@ -1,0 +1,19 @@
+{
+  "name": "doitapp",
+  "version": "1.0.0",
+  "description": "A Pomodoro/PMS/GTD app in electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrBosquet/DoItApp.git"
+  },
+  "author": "Fran Bosquet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrBosquet/DoItApp/issues"
+  },
+  "homepage": "https://github.com/FrBosquet/DoItApp#readme"
+}
